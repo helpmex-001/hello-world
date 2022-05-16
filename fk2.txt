@@ -1,2 +1,3 @@
 versiune 3 local
 modificare versiune locala 
+mod 5 remote
